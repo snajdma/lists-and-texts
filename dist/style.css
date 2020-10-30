@@ -1,0 +1,20 @@
+h1 {
+  color: orange;
+}
+
+h2 {
+  color: purple;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  text-decoration: underline;
+  list-style-type: upper-roman;
+}
+
+.pink {
+  color: pink;
+}
